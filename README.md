@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Oladayo Sonibare – Cybersecurity Analyst
+# 👩🏽‍💻 Dayo Sonibare – Cybersecurity Analyst
 
 Hi there! 👋 I'm *Oladayo Sonibare*, a passionate and hands-on **Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
 
@@ -70,6 +70,6 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ---
 
 > “Cybersecurity is not just a skill — it's a mindset.”  
-> – Oladayo Sonibare
+> – Dayo Sonibare
 
 Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
