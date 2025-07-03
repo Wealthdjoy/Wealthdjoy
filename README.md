@@ -14,7 +14,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 - ☁ *Cloud Home Lab Setup* (for scalable, remote testing)
 
 ### 🔍 Reconnaissance & Threat Analysis
-- 🌐 *Footprinting* – Passive and active info gathering
+- 🌐 *Footprinting* – Passive and active info gathering [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
 - 🐟 *Phishing Email Analysis* – Identifying spoofed domains, headers, and payloads
 - 🧫 *Vulnerability Assessment* – Using tools like OpenVAS, Nessus, and Nmap
 
