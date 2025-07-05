@@ -14,8 +14,7 @@
 
 ### 🔍 Vulnerability & Risk Management
 - 🔒 **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- 🌐 **Footprinting** – Passive and active info gathering [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
-- 🧫 **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
+- 🧫 **Vulnerability Assessment** – Footprinting-techniques, Network and web application scans with Nmap, Nessus and Nikto  [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
 - 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### 🚨 Detection & Monitoring
