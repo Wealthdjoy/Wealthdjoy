@@ -74,7 +74,7 @@
 
 ## 📫 Contact
 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/oladayo-sonibare-895b9423/)   
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/dayo-sonibare-895b9423/)   
 - ✉ **Email:** dayosonibare03@gmail.com  
 - 🌐 **Portfolio:** coming soon!
 
