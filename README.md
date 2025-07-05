@@ -1,76 +1,85 @@
 # 👩🏽‍💻 Dayo Sonibare – Cybersecurity Analyst
 
-Hi there! 👋 I'm *Oladayo Sonibare*, a passionate and hands-on **Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+👋 Hello! I’m **Dayo Sonibare**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
-## 🛡 My Cybersecurity Projects
+## 🛡 Project Highlights
 
-Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
+### 🥼 Lab Foundations
+- ✅ **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-### 🧪 Lab Environments
-- ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
-- Active Directory project [view project](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions)
-- ☁ *Cloud Home Lab Setup* (for scalable, remote testing)
+### 🪪 Identity & Access Security
+- 🪝 **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions)
 
-### 🔍 Reconnaissance & Threat Analysis
-- 🌐 *Footprinting* – Passive and active info gathering [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
-- 🐟 *Phishing Email Analysis* – Identifying spoofed domains, headers, and payloads
-- 🧫 *Vulnerability Assessment* – Using tools like OpenVAS, Nessus, and Nmap
+### 🔍 Vulnerability & Risk Management
+- 🔒 **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
+- 🌐 **Footprinting** – Passive and active info gathering [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
+- 🧫 **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
+- 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
-### 🚨 Threat Detection & Monitoring
-- 📊 *SIEM Setup with Wazuh* – Centralized log analysis and alerting
-- 🔎 *Elastic SIEM Setup* – Kibana dashboards and threat hunting
-- 🛡 *Suricata IDS Setup* – Intrusion detection using signature-based rules
-- 🧲 *Honeypot Deployment* – Detecting and analyzing attacker behavior
+### 🚨 Detection & Monitoring
+- 📊 **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
+- 🐧  **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
+- 🛡 **Suricata IDS Deployment** – Signature-based intrusion detection
+- 🧲 **Honeypot Deployment** – Capturing and analysing attacker behaviour
+
+### 🖲️ Threat Hunting & Framework Mapping
+- 🩻 **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+
+### 🚩 Social Engineering Defence
+- 🐟 **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- 🐟 **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+
+### 🔐 Offensive Security Simulations
+- 💉 **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
 
 ### 🔬 Malware & Exploit Analysis
-- 🧾 *Malicious PDF Analysis* – Dissecting payloads and embedded scripts
-- 🧟 *Malware Analysis* – Using tools like Ghidra and VirusTotal
+- 🧟 **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
+- 🧾 **Malicious PDF Analysis** – Payload extraction and script dissection
 
-### 🔐 Network Security
-- 🔒 *Setting Up a Personal VPN Server* – Secure remote connections using WireGuard/OpenVPN
+
 
 ---
 
 ## 🧰 Tools & Skills
 
 - 🖥 VirtualBox, VMware, AWS Free Tier
-- 🧪 Wireshark, Nmap, Metasploit
-- 🔐 Wazuh, Suricata, Elastic Stack
-- 🐧 Linux, macOS, Windows
-- 📄 Markdown, Git, GitHub
+- 🧪 Wireshark, Nmap, Nessus, Nikto, sqlmap
+- 🔐 Wazuh, Suricata, Elastic Stack, Splunk
+- 🐧 Kali Linux, Windows Server, Ubuntu, pfSense
+- 📄 Git, GitHub, Markdown documentation
 
 ---
 
 ## 📁 Featured Repositories
 
-| Project | Description | Link |
+| Folder | Description | Link |
 |--------|-------------|------|
-| virtual-home-lab | Setting up a local cyber lab on macOS/Windows | [View Repo](#) |
-| cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
-| footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
-| vulnerability-assessment | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
-| phishing-email-analysis | Analyzing phishing emails and spotting key red flags | [View Repo](#) |
-| wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
-| elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
-| suricata-ids-lab | Step-by-step IDS setup using Suricata | [View Repo](#) |
-| honeypot-deployment | Deceptive traps to attract and analyze cyber attackers | [View Repo](#) |
-| pdf-malware-analysis | Reverse engineering malicious PDFs | [View Repo](#) |
-| malware-analysis-basics | Using Ghidra and online sandboxes to inspect malware | [View Repo](#) |
-| vpn-server-setup | Create a personal VPN on the cloud | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions) |
+| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 05-vulnerability-assessment | Footprinting, Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/oladayo-sonibare-895b9423/)  
-- ✉ Email: dayosonibare03@gmail.com  
-- 🌐 Portfolio Site (coming soon!)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/oladayo-sonibare-895b9423/)   
+- ✉ **Email:** dayosonibare03@gmail.com  
+- 🌐 **Portfolio:** coming soon!
 
 ---
 
-> “Cybersecurity is not just a skill — it's a mindset.”  
-> – Dayo Sonibare
+> “Cybersecurity is not only a discipline, it's a mindset.”
 
-Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
+Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star ⭐.
