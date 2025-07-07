@@ -7,7 +7,7 @@
 ## 🛡 Project Highlights
 
 ### 🥼 Lab Foundations
-- ✅ **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+- ✅ **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion) [view project](https://github.com/Wealthdjoy/Virtual-Home-Lab/blob/main/Setting%20up%20a%20Virtual%20Home%20Lab.pdf)
 
 ### 🪪 Identity & Access Security
 - 🪝 **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions)
