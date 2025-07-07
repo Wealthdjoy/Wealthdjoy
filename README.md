@@ -28,7 +28,7 @@
 
 ### 🚩 Social Engineering Defence
 - 🐟 **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report)
-- 🐟 **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+- 🐟 **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf)
 
 ### 🔐 Offensive Security Simulations
 - 💉 **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
