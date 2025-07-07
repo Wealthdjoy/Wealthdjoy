@@ -27,7 +27,7 @@
 - 🩻 **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 
 ### 🚩 Social Engineering Defence
-- 🐟 **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report)
+- 🐟 **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-%20Steps%20In%20Generating%20a%20Netflix%20Phishing%20Link%20with%20Zphisher.pdf)
 - 🐟 **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf)
 
 ### 🔐 Offensive Security Simulations
