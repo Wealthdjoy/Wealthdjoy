@@ -11,7 +11,7 @@
 
 ### 🪪 Identity & Access Security
 - 🪝 **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions)
-- ☁️ **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy [view project]
+- ☁️ **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy [view project](https://github.com/Wealthdjoy/AWS-IAM-Cloud-Security-Project/blob/main/Dayo-AWS%20IAM%20Cloud%20Security%20Project.pdf)
 
 ### 🔍 Vulnerability & Risk Management
 - 🔒 **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
