@@ -11,11 +11,12 @@
 
 ### 🪪 Identity & Access Security
 - 🪝 **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [view project](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions)
+- ☁️ **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy [view project]
 
 ### 🔍 Vulnerability & Risk Management
 - 🔒 **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- 🧫 **Vulnerability Assessment** – Footprinting-techniques, Network and web application scans with Nmap, Nessus and Nikto  [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
-- 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
+- 🧫 **Vulnerability Assessment** –  Footprinting-techniques, Network and web application scans with Nmap, Nessus and Nikto [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
+- 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations [view project]
 
 ### 🚨 Detection & Monitoring
 - 📊 **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
@@ -57,9 +58,9 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Wealthdjoy/Virtual-Home-Lab/blob/main/Setting%20up%20a%20Virtual%20Home%20Lab.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Footprinting-techniques, Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
@@ -79,6 +80,6 @@
 
 ---
 
-> “Cybersecurity is not only a discipline, it's a mindset.”
+> “Cybersecurity is not only a discipline, but also a mindset.”
 
 Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star ⭐.
