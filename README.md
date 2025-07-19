@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Wealthdjoy/Virtual-Home-Lab/blob/main/Setting%20up%20a%20Virtual%20Home%20Lab.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Wealthdjoy/Active-Directory-Simulation-CyberTech-Solutions) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Wealthdjoy/AWS-IAM-Cloud-Security-Project/blob/main/Dayo-AWS%20IAM%20Cloud%20Security%20Project.pdf) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
