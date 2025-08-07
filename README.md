@@ -61,7 +61,7 @@
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Wealthdjoy/AWS-IAM-Cloud-Security-Project/blob/main/Dayo-AWS%20IAM%20Cloud%20Security%20Project.pdf) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Wealthdjoy/Splunk-Alert-Project/blob/main/Dayo%20-%20Splunk%20Alert%20Project.pdf) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report) |
