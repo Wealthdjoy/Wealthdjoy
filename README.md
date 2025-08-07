@@ -19,7 +19,7 @@
 - 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations [view project]
 
 ### 🚨 Detection & Monitoring
-- 📊 **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
+- 📊 **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk [view project](https://github.com/Wealthdjoy/Splunk-Alert-Project/blob/main/Dayo%20-%20Splunk%20Alert%20Project.pdf)
 - 🐧  **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
 - 🛡 **Suricata IDS Deployment** – Signature-based intrusion detection
 - 🧲 **Honeypot Deployment** – Capturing and analysing attacker behaviour
