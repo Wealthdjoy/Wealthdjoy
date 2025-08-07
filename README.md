@@ -16,7 +16,7 @@
 ### 🔍 Vulnerability & Risk Management
 - 🔒 **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
 - 🧫 **Vulnerability Assessment** –  Footprinting-techniques, Network and web application scans with Nmap, Nessus and Nikto [view project](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf)
-- 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations [view project]
+- 🧪 **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations [view project](https://github.com/Wealthdjoy/Risk-Assessment-Report/blob/main/Dayo%20-%20Risk%20Assessment%20Report.pdf)
 
 ### 🚨 Detection & Monitoring
 - 📊 **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk [view project](https://github.com/Wealthdjoy/Splunk-Alert-Project/blob/main/Dayo%20-%20Splunk%20Alert%20Project.pdf)
@@ -62,7 +62,7 @@
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Wealthdjoy/Splunk-Alert-Project/blob/main/Dayo%20-%20Splunk%20Alert%20Project.pdf) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Wealthdjoy/Risk-Assessment-Report/blob/main/Dayo%20-%20Risk%20Assessment%20Report.pdf) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf) |
