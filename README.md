@@ -25,7 +25,7 @@
 - 🧲 **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
 ### 🖲️ Threat Hunting & Framework Mapping
-- 🩻 **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+- 🩻 **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections [view project](https://github.com/Wealthdjoy/Threat-Hunting-Framework-Mapping/blob/main/Dayo%20-%20Threat%20Hunting%20in%20the%20Healthcare%20Sector%20using%20MITRE%20ATT%26CK.pdf)
 
 ### 🚩 Social Engineering Defence
 - 🐟 **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-%20Steps%20In%20Generating%20a%20Netflix%20Phishing%20Link%20with%20Zphisher.pdf)
@@ -63,7 +63,7 @@
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Wealthdjoy/Web-Application-Vulnerability-Reconnaissance/blob/main/Dayo-Web%20Application%20Vulnerability%20Reconnaissance%20(2).pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Wealthdjoy/Splunk-Alert-Project/blob/main/Dayo%20-%20Splunk%20Alert%20Project.pdf) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Wealthdjoy/Risk-Assessment-Report/blob/main/Dayo%20-%20Risk%20Assessment%20Report.pdf) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Wealthdjoy/Threat-Hunting-Framework-Mapping/blob/main/Dayo%20-%20Threat%20Hunting%20in%20the%20Healthcare%20Sector%20using%20MITRE%20ATT%26CK.pdf) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
