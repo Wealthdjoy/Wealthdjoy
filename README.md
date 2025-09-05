@@ -32,7 +32,7 @@
 - 🐟 **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf)
 
 ### 🔐 Offensive Security Simulations
-- 💉 **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+- 💉 **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests [view project](https://github.com/Wealthdjoy/SQL-Injection/blob/main/Dayo-%20SQL%20Injection%20Project%20on%20Auth%20Bypass.pdf)
 
 ### 🔬 Malware & Exploit Analysis
 - 🧟 **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
@@ -67,7 +67,7 @@
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Wealthdjoy/Phishing-Email-Simulation-and-Analysis-Report/blob/main/Dayo-Phishing%20Email%20Analysis%20Report.pdf) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/Wealthdjoy/SQL-Injection/blob/main/Dayo-%20SQL%20Injection%20Project%20on%20Auth%20Bypass.pdf) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 ---
