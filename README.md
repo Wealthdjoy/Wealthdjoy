@@ -69,6 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/Wealthdjoy/SQL-Injection/blob/main/Dayo-%20SQL%20Injection%20Project%20on%20Auth%20Bypass.pdf) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Wealthdjoy/Malware-Analysis-Report/blob/main/Malware_analysis_on_suspected_infected_png_file_No_threats_detected.pdf) |
+| 14-File-Extraction-from-HTTP-Traffic-PCAP | Identify, reconstruct, and recover hidden files embedded within TCP streams using Wireshark | [View Repo](
 
 ---
 
