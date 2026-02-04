@@ -70,7 +70,7 @@
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/Wealthdjoy/SQL-Injection/blob/main/Dayo-%20SQL%20Injection%20Project%20on%20Auth%20Bypass.pdf) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/Wealthdjoy/Malware-Analysis-Report/blob/main/Malware_analysis_on_suspected_infected_png_file_No_threats_detected.pdf) |
 | 14-file-extraction-from-HTTP-traffic-PCAP | Identify, reconstruct, and recover hidden files embedded within TCP streams using Wireshark | [View Repo](https://github.com/Wealthdjoy/Digital-Forensics-Capture-the-File-CTF-Report/blob/main/Digital%20Forensics%20CTF%20Report%20-%20PCAP.pdf)
-
+| 15-splunk-log-analysis-workflow | Ingestion, field extraction, search queries, visualizations, and alerting | [View Repo](https://github.com/Wealthdjoy/Splunk-Log-Analysis-Lab-Practice_data/blob/main/Splunk%20Log%20Analysis%20Workflow.pdf)
 ---
 
 ## 📫 Contact
